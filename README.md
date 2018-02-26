@@ -1,7 +1,4 @@
-# daddyofreadme
-A handy starting point for Github repo readme's
-
-# Dark New Tab
+# Daddy of Readme's
 ![image](https://github.com/dandydanny/daddyofreadme/blob/master/screenshot.gif)
 A handy starting point for Github repo readme's
 
