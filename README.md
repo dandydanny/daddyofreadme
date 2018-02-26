@@ -2,7 +2,7 @@
 A handy starting point for Github repo readme's
 
 # Dark New Tab
-![image](https://github.com/dandydanny/daddyofreadme/blob/master/screenshot.png)
+![image](https://github.com/dandydanny/daddyofreadme/blob/master/screenshot.gif)
 A handy starting point for Github repo readme's
 
 ### What?
