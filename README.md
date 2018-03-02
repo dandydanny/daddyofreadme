@@ -8,8 +8,8 @@ A handy starting point for Github repo readme's
 | Some | Data | In a Table |
 | ---: | :--: | :--------- |
 | A1 | 1 | Lorem ipsum |
-| B2 | 20 | Much table, very cell |
-| FFFFFF | 255 | 255, 255, 255 |
+| B2 | 20000 | Much table, very cell |
+| FFFFFF | 255 | 255, 255, 255 values in CSS denotes white |
 
 ### Why?
 1. List reasons on
