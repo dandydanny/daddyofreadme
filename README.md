@@ -24,4 +24,4 @@ A handy starting point for Github repo readme's
 * v0.1 - Initial release
 
 ### About
-Daniel is a web developer seeking opportunities, beverage socials, and late-night taco runs.
+Daniel is a web developer seeking opportunities, beverage socials, and late-night taco runs. [dandydanny.github.io](https://git.io/vxurG)
